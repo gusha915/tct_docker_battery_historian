@@ -13,4 +13,4 @@ docker安装方法
 https://docs.docker.com/install/
 
 如上可以成功部署docker版本的battery historian
-但是还无法解析，因为解决过程中需要访问google网站的js，所以需要本地化，请参照 https://github.com/gusha915/no-ssr-battery-historian 操作
+但是还无法解析，因为解析过程中需要访问google网站的js，所以需要本地化，请参照 https://github.com/gusha915/no-ssr-battery-historian 操作
