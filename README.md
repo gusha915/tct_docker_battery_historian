@@ -9,7 +9,7 @@
 安装方法：  
 使用docker直接运行  
 sudo docker run --restart=always -p 9999:9999 tctdocker/tct_docker_battery_historian:3.1 --port 9999  
-加入 --restart=always 参数，表示机器重启后或者docker服务重启，容器也会自动重启   
+加入 --restart=always 参数，表示机器重启后或者docker服务重启，容器也会自动重启运行     
 
 docker安装方法 https://docs.docker.com/install/   
 
