@@ -1,5 +1,7 @@
 # tct_docker_battery_historian
 
+tctdocker/tct_docker_battery_historian  
+
 与 gcr.io/android-battery-historian/stable:3.1 同步
 
 解决  
